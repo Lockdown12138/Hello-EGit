@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Hello EGit</h1>
+	<h2>Hello Word</h2>
 </body>
 </html>
